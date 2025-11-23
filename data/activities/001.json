@@ -1,0 +1,16 @@
+[
+  {
+    "type": "good",
+    "text": "子育て支援法案を提案",
+    "point": 10,
+    "createdBy": "uid_abc",
+    "createdAt": "2025-11-23T03:00:00Z"
+  },
+  {
+    "type": "bad",
+    "text": "不適切な発言",
+    "point": -5,
+    "createdBy": "uid_xyz",
+    "createdAt": "2025-11-23T04:00:00Z"
+  }
+]
